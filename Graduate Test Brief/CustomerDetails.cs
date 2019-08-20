@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//In this class all the data of customers will be stored in list named customerDetails and when user request it will return all details of every customers
 namespace Graduate_Test_Brief
 {
     class CustomerDetails

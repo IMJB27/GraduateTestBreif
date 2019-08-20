@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+//In this class first the records from the CSV file will be inserted to the list of CUstomerDetails and Vehicle Details and as per user request it will out put the reports 
 namespace Graduate_Test_Brief
 {
     class Reports

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//In this class all the data of vehicles will be stored in list named vehicleDetails and when user request it will return all details of every vehicles 
 namespace Graduate_Test_Brief
 {
     class VehicleDetails
