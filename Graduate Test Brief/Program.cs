@@ -15,7 +15,7 @@ namespace Graduate_Test_Brief
         {
             string sChoice;
             int iChoice;
-            bool con = true;
+            bool condition = true;
             Reports.insertRecords(@"..\..\Assets\Customer Information.csv");
             do
             {
@@ -48,14 +48,14 @@ namespace Graduate_Test_Brief
                         Reports.getReport4(1100);
                         break;
                     case 5:
-                        con = false;
+                        condition = false;
                         break;
                     default:
                         Console.Read();
                         break;
                 }
 
-            } while (con == true);
+            } while (condition == true);
 
         }
     }
