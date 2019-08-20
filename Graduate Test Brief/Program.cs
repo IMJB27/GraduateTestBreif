@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-//This is the Main Class from where the user can request which report he/she want to know
+//This is the Main Class from where the user can request which report he/she wants to know
 namespace Graduate_Test_Brief
 {
     class Program
